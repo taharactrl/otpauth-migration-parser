@@ -1,0 +1,26 @@
+{
+  "name": "otpauth-migration-parser",
+  "version": "0.1.0",
+  "description": "OTP Auth Migration Url Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taharactrl/otpauth-migration-parser.git"
+  },
+  "keywords": [
+    "otpauth-migration"
+  ],
+  "author": "Kohei Tahara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taharactrl/otpauth-migration-parser/issues"
+  },
+  "homepage": "https://github.com/taharactrl/otpauth-migration-parser#readme",
+  "dependencies": {
+    "protobufjs": "^6.11.2",
+    "rfc4648": "^1.5.0"
+  }
+}
