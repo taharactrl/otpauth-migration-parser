@@ -1,6 +1,6 @@
 {
   "name": "otpauth-migration-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OTP Auth Migration Url Parser",
   "main": "index.js",
   "scripts": {
